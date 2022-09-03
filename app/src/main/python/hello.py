@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 from matplotlib import pyplot as plt
-1111111111111111111111111
+12222222222222222
 ##创建新文件夹，如果该文件已经存在，则报错
 # os.makedirs('./hhh')
 img=cv2.imread('./1.jpg')
